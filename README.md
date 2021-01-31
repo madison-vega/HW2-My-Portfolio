@@ -6,6 +6,13 @@ This is my Responsive Portfolio.  As a novice level programmer it is important t
 
 ## Usage
 
+On the live website you can click on the navigation links to cycle through the different pages of my portfolio.  I have an About Me section, a page with my projects, and a Contact page.  
+
+![AboutmeSS](assets/AboutMe.png "About Me")
+![ProjectSS](assets/Projects.png "Projects")
+![ContactSS](assets/Contact.png "Contact")
+
+## Links
 
 ## Credits
 
