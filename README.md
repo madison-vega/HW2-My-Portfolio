@@ -6,10 +6,10 @@ This is my Responsive Portfolio.  As a novice level programmer it is important t
 
 ## Usage
 
-On the live website you can click on the navigation links to cycle through the different pages of my portfolio.  I have an About Me section, a page with my projects, and a Contact page.  There are links to projects I have done that will take you to either the reposoitory or the project itself.  My contact page has a form to send me a message and also links to my Github and my LinkedIn.
+On the live website you can click on the navigation links to cycle through the different pages of my portfolio.  I have an About Me section and a page with my projects.  There is a contact card with links to my Github, LinkedIn, email, and also a link to download my resume.  There are links to projects I have done that will take you to either the reposoitory or the project itself. 
 
-![AboutmeSS](assets/AboutMe.png "About Me")
-![ProjectSS](assets/Projects.png "Projects")
+![Portfolio Gif](https://media.giphy.com/media/xyR58lmPJlQ4aLOOP7/giphy.gif)
+
 
 ## Links
 
