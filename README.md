@@ -21,7 +21,7 @@ Links to my live website portfolio and also my repo.
 ## Credits
 
 I utilized elements from [Bootstrap](https://getbootstrap.com/) to create a responsive website.
-I also utilized [Bootswatch](https://www.bootstrapcdn.com/bootswatch/) for a theme.
+I used [Coolor](https://coolors.co/) to help with a color scheme.
 
 ## License
 
