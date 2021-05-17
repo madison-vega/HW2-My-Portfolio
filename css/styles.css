@@ -1,0 +1,36 @@
+#main {
+    margin-bottom: 2%;
+}
+
+.content {
+    float: left;
+    color: black;  
+}
+
+#top {
+    padding-top: 10%;
+}
+
+#bottom {
+    padding-bottom: 10%;
+}
+
+body {
+    background-color: #E9E3E6;
+    font-family: 'Raleway', sans-serif;
+    
+}
+.navbar {
+    background-color: #9A8F97;
+    
+    
+}
+.navbar-brand, .nav-link {
+    color: black;
+}
+a {
+    color: #98838F;
+}
+a:hover {
+    color: #736F72;
+}
