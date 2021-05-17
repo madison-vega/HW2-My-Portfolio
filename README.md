@@ -10,7 +10,6 @@ On the live website you can click on the navigation links to cycle through the d
 
 ![AboutmeSS](assets/AboutMe.png "About Me")
 ![ProjectSS](assets/Projects.png "Projects")
-![ContactSS](assets/Contact.png "Contact")
 
 ## Links
 
