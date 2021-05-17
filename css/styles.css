@@ -18,6 +18,7 @@
 body {
   background-color: #e9e3e6;
   font-family: "Raleway", sans-serif;
+  font-size: large;
 }
 .navbar, #navi {
   background-color: #9a8f97;
@@ -31,4 +32,7 @@ a {
 }
 a:hover {
   color: #98838f;
+}
+ul {
+  list-style-type: none;
 }
