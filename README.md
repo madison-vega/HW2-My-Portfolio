@@ -15,9 +15,9 @@ On the live website you can click on the navigation links to cycle through the d
 
 Links to my live website portfolio and also my repo.
 
-[Live Website](https://madison-vega.github.io//HW2-My-Portfolio/index.html)
+[Live Website](https://madison-vega.github.io/My-Portfolio/index.html)
 <br>
-[Git Hub Repository](https://github.com/madison-vega/HW2-My-Portfolio)
+[Git Hub Repository](https://github.com/madison-vega/My-Portfolio)
 
 ## Credits
 
